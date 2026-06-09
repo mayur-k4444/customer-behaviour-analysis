@@ -21,8 +21,7 @@ The three KPI cards at the top give an instant snapshot of the business — we h
 ________________________________________
 ## 3 — Walk Through Each Visual (Left to Right, Top to Bottom)
 - Donut Chart — Subscription Status :
-  
-"Only 27% of customers are subscribed. This means 73% are non-subscribers, which is a business opportunity — converting them to subscribers could significantly increase revenue."
+  "Only 27% of customers are subscribed. This means 73% are non-subscribers, which is a business opportunity — converting them to             subscribers could significantly increase revenue."
 - Revenue by Category (Bar Chart)
 "Clothing generates the highest revenue, followed by Accessories, Footwear, and Outerwear. This tells the business where to focus marketing efforts."
 - Sales by Category (Bar Chart)
