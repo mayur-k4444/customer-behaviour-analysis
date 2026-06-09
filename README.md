@@ -29,7 +29,7 @@ ________________________________________
 - Revenue by Age Group (Bar Charts — both) : 
 "Young Adults contribute the highest revenue, followed by Middle-aged, Adults, and Seniors. This means marketing campaigns should be targeted toward younger demographics."
 ________________________________________
-4 — Highlight Key Insights & Business Value
+## 4 — Highlight Key Insights & Business Value
 A dashboard is more than a collection of charts — it is a decision-making tool. Its main purpose is to turn raw data into actionable insights, helping business leaders quickly spot trends, identify problems, and make informed decisions.
 Share 3–4 strong insights like:
 1.	💡 "73% of customers are non-subscribers — targeted subscription campaigns for loyal buyers could boost recurring revenue."
@@ -37,6 +37,6 @@ Share 3–4 strong insights like:
 3.	💡 "Clothing dominates both sales and revenue — stock management and promotions here will have the biggest impact."
 4.	💡 "Average purchase amount of $59.76 with a 3.75 rating suggests room to improve both product quality and upselling strategies."
 ________________________________________
-5 — Mention the Filters & Interactivity
+## 5 — Mention the Filters & Interactivity
 "The dashboard has interactive filters on the left panel — users can filter by Gender, Subscription Status, Category, and Shipping Type. This allows business teams to drill down into specific customer segments without needing technical knowledge."
-This shows you built it for the end-user, not just for yourself.
+
