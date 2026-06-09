@@ -1,5 +1,5 @@
 # Customer Behaviour Analysis
-1 — Introduce the Project (Context & Purpose)
+##1 — Introduce the Project (Context & Purpose)
 
 "This is a Customer Behavior Analysis Dashboard built in Power BI. The goal of this project was to analyze shopping behavior across 3,900 customers — understanding their spending patterns, subscription habits, product preferences, and age-group contributions — to help businesses make data-driven decisions."
 Key points to mention:
