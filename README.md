@@ -5,9 +5,9 @@ This is a Customer Behavior Analysis Dashboard built in Power BI. The goal of th
 
 Key points to mention:
 -	Dataset: customer shopping behavior (CSV)
-•	Tool used: Power BI
-•	Data preprocessing: done in Python (Jupyter Notebook)
-•	Business queries: answered using SQL
+-	Tool used: Power BI
+-	Data preprocessing: done in Python (Jupyter Notebook)
+-	Business queries: answered using SQL
 ________________________________________
 2 — Explain the KPIs (Top Metrics First)
 Always start by explaining the KPIs before going into charts. Your dashboard has 3 KPI cards at the top — explain each one:
