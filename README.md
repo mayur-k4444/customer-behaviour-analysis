@@ -20,13 +20,14 @@ My dashboard has 3 KPI cards at the top — explain each one:
 The three KPI cards at the top give an instant snapshot of the business — we have 3,900 customers, they spend an average of $59.76 per transaction, and the average review rating is 3.75 out of 5.
 ________________________________________
 ## 3 — Walk Through Each Visual (Left to Right, Top to Bottom)
-- 🔵 Donut Chart — Subscription Status
+- Donut Chart — Subscription Status :
+  
 "Only 27% of customers are subscribed. This means 73% are non-subscribers, which is a business opportunity — converting them to subscribers could significantly increase revenue."
-🔵 Revenue by Category (Bar Chart)
+- Revenue by Category (Bar Chart)
 "Clothing generates the highest revenue, followed by Accessories, Footwear, and Outerwear. This tells the business where to focus marketing efforts."
-🔵 Sales by Category (Bar Chart)
+- Sales by Category (Bar Chart)
 "Similarly, Clothing leads in number of sales too — confirming it is the most popular category both by volume and revenue."
-🔵 Revenue by Age Group (Bar Charts — both)
+- Revenue by Age Group (Bar Charts — both)
 "Young Adults contribute the highest revenue, followed by Middle-aged, Adults, and Seniors. This means marketing campaigns should be targeted toward younger demographics."
 ________________________________________
 4 — Highlight Key Insights & Business Value
