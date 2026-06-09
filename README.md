@@ -11,8 +11,8 @@ Key points to mention:
 ________________________________________
 ## 2 — Explain the KPIs (Top Metrics First)
 My dashboard has 3 KPI cards at the top — explain each one:
-|KPI|	|Value|	|What it means|
-|......| |......| |......|
+| KPI |	| Value |	| What it means |
+| ...... | | ...... | | ...... |
 |Number of Customers|	|3.9K|	|Total customers analyzed|
 |Average Review Rating|	|$3.75|	|Customer satisfaction is moderate|
 |Average Purchase Amount|	|$59.76|	|Typical spend per transaction|
