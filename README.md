@@ -16,7 +16,8 @@ My dashboard has 3 KPI cards at the top — explain each one:
 |Number of Customers | 3.9K | Total customers analyzed|
 |Average Review Rating | $3.75 | Customer satisfaction is moderate|
 |Average Purchase Amount| $59.76 | Typical spend per transaction|
-"The three KPI cards at the top give an instant snapshot of the business — we have 3,900 customers, they spend an average of $59.76 per transaction, and the average review rating is 3.75 out of 5."
+
+The three KPI cards at the top give an instant snapshot of the business — we have 3,900 customers, they spend an average of $59.76 per transaction, and the average review rating is 3.75 out of 5.
 ________________________________________
 3 — Walk Through Each Visual (Left to Right, Top to Bottom)
 Follow the flow of the charts on the dashboard — jumping all over the place would be distracting, and following what's already on the dashboard serves as a visual guide.
