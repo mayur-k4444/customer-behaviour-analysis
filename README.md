@@ -4,7 +4,7 @@
 This is a Customer Behavior Analysis Dashboard built in Power BI. The goal of this project was to analyze shopping behavior across 3,900 customers — understanding their spending patterns, subscription habits, product preferences, and age-group contributions — to help businesses make data-driven decisions.
 
 Key points to mention:
--	[Dataset: customer shopping behavior (CSV)]
+-	Dataset: customer shopping behavior (CSV)
 •	Tool used: Power BI
 •	Data preprocessing: done in Python (Jupyter Notebook)
 •	Business queries: answered using SQL
