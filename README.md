@@ -9,12 +9,13 @@ Key points to mention:
 -	Data preprocessing: done in Python (Jupyter Notebook)
 -	Business queries: answered using SQL
 ________________________________________
-2 — Explain the KPIs (Top Metrics First)
-Always start by explaining the KPIs before going into charts. Your dashboard has 3 KPI cards at the top — explain each one:
-KPI	Value	What it means
-Number of Customers	3.9K	Total customers analyzed
-Average Review Rating	$3.75	Customer satisfaction is moderate
-Average Purchase Amount	$59.76	Typical spend per transaction
+## 2 — Explain the KPIs (Top Metrics First)
+My dashboard has 3 KPI cards at the top — explain each one:
+|KPI|	|Value|	|What it means|
+|......| |......| |......|
+|Number of Customers|	|3.9K|	|Total customers analyzed|
+|Average Review Rating|	|$3.75|	|Customer satisfaction is moderate|
+|Average Purchase Amount|	|$59.76|	|Typical spend per transaction|
 "The three KPI cards at the top give an instant snapshot of the business — we have 3,900 customers, they spend an average of $59.76 per transaction, and the average review rating is 3.75 out of 5."
 ________________________________________
 3 — Walk Through Each Visual (Left to Right, Top to Bottom)
